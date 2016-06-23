@@ -5,6 +5,10 @@ Daniel Nguyen
 https://github.com/Dnguy104/
 
 
+Components- 8x8 led matrix, 4 shift registers, 2 joysticks
+
+https://youtu.be/xr-YOfQQzMk 
+
 ============
 
 My custom lab project is a 2 player  bomber game. When the game starts, each player is initialized at separate corners of the map. Each player can move up, down, left, and right by use of their joystick, and plant at most 2 bombs by pressing the joystick. The bombs will flash for a few seconds, then explode along the x and y axis. The goal of the game is to get the other player to die before you do. One rule is that players cannot go through bombs, wall, or other players. When a person is hit by a bomb, they will die and the winners color will flash on the screen. After that, the game will reset. 
